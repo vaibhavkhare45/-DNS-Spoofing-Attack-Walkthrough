@@ -102,7 +102,7 @@ Avoid untrusted networks
 
 📷 Screenshots
 
-ARP Spoof terminal → ./images/arpspoof.png
+ARP Spoof terminal → [Arpspoof1.png](https://github.com/vaibhavkhare45/-DNS-Spoofing-Attack-Walkthrough/blob/main/Arpspoof1.png)
 
 DNS Spoof terminal → ./images/dnsspoof.png
 
