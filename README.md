@@ -102,10 +102,10 @@ Avoid untrusted networks
 
 📷 Screenshots
 
-ARP Spoof terminal → [Arpspoof1.png](https://github.com/vaibhavkhare45/-DNS-Spoofing-Attack-Walkthrough/blob/main/Arpspoof1.png)
+ARP Spoof terminal → [Arpspoof1.png](https://github.com/vaibhavkhare45/-DNS-Spoofing-Attack-Walkthrough/blob/main/Arpspoof1.png) , [arpspoof2.png](https://github.com/vaibhavkhare45/-DNS-Spoofing-Attack-Walkthrough/blob/main/arpspoof2.png)
 
-DNS Spoof terminal → ./images/dnsspoof.png
+DNS Spoof terminal → [dnsspoof.png](https://github.com/vaibhavkhare45/-DNS-Spoofing-Attack-Walkthrough/blob/main/dnsspoof.png)
 
-Apache running → ./images/apache.png
+Apache running → [apache.png](https://github.com/vaibhavkhare45/-DNS-Spoofing-Attack-Walkthrough/blob/main/apache.png)
 
-Victim spoofed webpage → ./images/victim_browser.png
+Victim spoofed webpage → [victim_browser.png](https://github.com/vaibhavkhare45/-DNS-Spoofing-Attack-Walkthrough/blob/main/victim_browser.png)
