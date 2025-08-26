@@ -102,3 +102,10 @@ Avoid untrusted networks
 
 📷 Screenshots
 
+ARP Spoof terminal → ./images/arpspoof.png
+
+DNS Spoof terminal → ./images/dnsspoof.png
+
+Apache running → ./images/apache.png
+
+Victim spoofed webpage → ./images/victim_browser.png
